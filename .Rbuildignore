@@ -1,0 +1,10 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+
+.gitignore
+  MyPack.Rproj
+  .gitignore
+Rbuildignore
+  .gitignore
+  README.md
+.Rhistory
